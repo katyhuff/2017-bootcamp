@@ -111,7 +111,7 @@ The first half of the day will follow the R Novice Gapminder lesson http://swcar
 
 ### Day 3: Databases and Visualization
 
-['Best Practices in Scientific Computing'](http://katyhuff.github.io/2017-05-31-pi4) - Kathryn Huff
+['Data in Nuclear Engineering'](http://katyhuff.github.io/2017-05-31-pi4) - Kathryn Huff
 
 Wednesday May 31 
 
